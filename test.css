@@ -1,0 +1,24 @@
+.wrapper{
+	width: 1920px;
+}
+.green, .yellow, .blue, .red, .dark{
+height: 1080px;
+}
+.green{
+	background-color:rgb(0, 204, 0) ;
+}
+.yellow{
+background-color:rgb(255, 255, 0) ;	
+}
+.blue{
+	background-color: rgb(0, 0, 255);
+}
+.red{
+	background-color:rgb(255, 0, 0) ;
+}
+.dark{
+	background-color:rgb(0, 0, 0);
+}
+body{
+    margin: 0;
+   }
